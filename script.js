@@ -48,3 +48,5 @@ const perguntas = [
         correta: 0
     }
 ];
+
+
