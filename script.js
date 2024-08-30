@@ -27,7 +27,7 @@ const perguntas = [
         enunciado: "Qual é o maior planeta do nosso sistema solar?",
         alternativas: [
             "Terra",
-            "Júpiter"
+            "Júpter"
         ],
         correta: 1
     },
